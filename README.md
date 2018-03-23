@@ -1,6 +1,7 @@
 ## Overview
 
-[![Build Status](https://travis-ci.org/openebs/maya.svg?branch=master)](https://travis-ci.org/openebs/maya) 
+[![Build Status](https://travis-ci.org/openebs/maya.svg?branch=master)](https://travis-ci.org/openebs/maya) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmuratkars%2Fmaya.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmuratkars%2Fmaya?ref=badge_shield)
+
 [![Go Report](https://goreportcard.com/badge/github.com/openebs/maya)](https://goreportcard.com/report/github.com/openebs/maya) [![codecov](https://codecov.io/gh/openebs/maya/branch/master/graph/badge.svg)](https://codecov.io/gh/openebs/maya) [![GoDoc](https://godoc.org/github.com/openebs/maya?status.svg)](https://godoc.org/github.com/openebs/maya)
 
 *This repository hosts the source code for OpenEBS Storage Orchestration Engine.* 
@@ -36,3 +37,7 @@ Maya uses [golang dep] to manage dependencies. Usage can be found on [dep README
 [developer's documentation]: https://github.com/openebs/maya/blob/master/docs/developer.md
 [golang dep]: https://github.com/golang/dep
 [dep README]: https://github.com/golang/dep#usage
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmuratkars%2Fmaya.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmuratkars%2Fmaya?ref=badge_large)
